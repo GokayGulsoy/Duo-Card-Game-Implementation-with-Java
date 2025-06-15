@@ -1,4 +1,4 @@
-# Duo-Card-Game-Implementation-with-Java
+# Duo Card Game Implementation with Java
 
 This repository provides an design and implementation of Duo Card game with Java using Mediator design pattern
 and object-oriented design principles. UML class diagram of implementation is also provided under the DuoCardGameApplication project directory named as `Duo_Card_Game_Application_Class_Diagram.pdf`. 
